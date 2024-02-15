@@ -14,7 +14,7 @@ This code automatically processes and analyzes data saved in your Obsidian notes
 ![image](https://github.com/WicherW/DailyNotesTracker/assets/47701300/f2e42a8c-63bc-4c42-9814-ad889a3e50ca)
 
 # Future 🛠️
-- make it responsable
+- make it responsive
 
 ### License 🚧
 This project is distributed under the MIT License, allowing you to use, modify, and distribute it freely while maintaining appropriate copyright notices. 😁
