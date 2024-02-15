@@ -15,4 +15,4 @@ This code automatically processes and analyzes data saved in your Obsidian notes
 
 # Future 🛠️
 - make it responsable
-- 
+
