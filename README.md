@@ -8,7 +8,7 @@ This code automatically processes and analyzes data saved in your Obsidian notes
 ![image](https://github.com/WicherW/DailyNotesTracker/assets/47701300/d5b9b67e-3a88-410e-aacd-3ad5cc4b1bc7)
 3. Fill the template of daily note <br>
 ![image](https://github.com/WicherW/DailyNotesTracker/assets/47701300/e0889a56-50f0-4b50-9775-6a1a13b30620)
-4. Paste code whenever you want
+4. Paste code wherever you want
 
 # Example 😉
 ![image](https://github.com/WicherW/DailyNotesTracker/assets/47701300/f2e42a8c-63bc-4c42-9814-ad889a3e50ca)
