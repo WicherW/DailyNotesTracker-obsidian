@@ -22,7 +22,7 @@ dv.el("b", "Productive: <br>");
 
 dv.span("  <progress max=" + done_days + " value="+study_days+"></progress> " + study_days + "/" + done_days +"");
 
-dv.span("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+dv.span("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
 
 dv.span("<progress max=" + done_days + " value="+productive_days+"></progress> " + productive_days + "/" + done_days +" <br>");
 
